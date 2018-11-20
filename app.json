@@ -1,0 +1,15 @@
+{
+	"expo": {
+		"name": "Caffeine Scanner",
+		"version": "1.0.0",
+		"slug": "caffeine-scanner",
+		"sdkVersion": "31.0.0",
+		"icon": "/home/alex/chno-logo.png",
+		"ios": {
+			"bundleIdentifier": "me.alexcardosi.caffeinescanner"
+		},
+		"android": {
+			"package": "me.alexcardosi.caffeinescanner"
+		}
+	}
+}
